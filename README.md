@@ -1,1 +1,4 @@
-# fullcycle-stress-test
+load-tester/
+├── main.go
+├── go.mod
+├── Dockerfile
